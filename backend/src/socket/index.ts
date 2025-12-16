@@ -5,7 +5,7 @@ const userSockets = new Map<string, string>();
 
 export function initSocket(server: HttpServer) {
   const io = new Server(server, {
-    cors: { origin: 'http://localhost:3000',
+    cors: { origin: 'https://task-manager-alpha-rose.vercel.app/',
             credentials: true
     },
   });
