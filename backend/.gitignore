@@ -1,0 +1,15 @@
+# ENV
+.env
+.env.*
+
+# NODE
+node_modules/
+dist/
+
+# PRISMA
+prisma/migrations/
+
+# LOGS
+logs/
+*.log
+
