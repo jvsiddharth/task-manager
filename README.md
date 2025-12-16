@@ -40,6 +40,6 @@ It allows users to create, assign, and manage tasks using a Jira-style Kanban bo
 - npm run dev
 
 ## Test Login ID
-test.user@example.com
-password123
+- test.user@example.com
+- password123
 
