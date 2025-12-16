@@ -8,7 +8,7 @@ export const app = express();
 
 app.use(
   cors({
-    origin: 'https://task-manager-alpha-rose.vercel.app/',
+    origin: 'https://task-manager-alpha-rose.vercel.app',
     credentials: true,
   })
 );
