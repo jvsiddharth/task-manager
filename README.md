@@ -36,6 +36,10 @@ It allows users to create, assign, and manage tasks using a Jira-style Kanban bo
 ---
 
 ## Getting Started
-npm install
-npm run dev
+- npm install
+- npm run dev
+
+## Test Login ID
+test.user@example.com
+password123
 
